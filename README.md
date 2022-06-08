@@ -23,26 +23,26 @@
 
 ```
 -------------------------------------------------------------
-                >------------------------MTTR-----------<          
+                >------------------------MTTR-----------< 
                 |                      RESOLVE          | 
-                >-------------MTTF-----------<          |          
-                |                            |          |          
-                >------MTTR-------<          |          |                      
+                >-------------MTTF-----------<          | 
+                |                            |          | 
+                >------MTTR-------<          |          | 
          >-MTTA-<     RESPOND     |          |          |
          |      |                 >---MTBF---<          |
-  >-MTTD-<      |       >--MTTR-- <          |          |                             
-  |      |      |       | REPAIR  |          |          |                                 
+  >-MTTD-<      |       >--MTTR-- <          |          | 
+  |      |      |       | REPAIR  |          |          | 
 --+------+------+-------+---------+----------+----------+----
-  I      D      A       B         E          I          P                                           
-  N      E      C       E         N          N          O                                            
-  C      T      K       G         D          C          S                                            
-  I      E      N       I                    I          T                                           
-  D      C      O       N         R          D                                                      
-  E      T      W                 E          E          F                                           
-  N             L       R         P          N          I                                      
-  T             E       E         A          T          X                                                                                                        
-                D       P         I                                                         
-  #             G       A         R          #                                                  
-  1             E       I                    2                                              
-                        R                                                                  
+  I      D      A       B         E          I          P 
+  N      E      C       E         N          N          O 
+  C      T      K       G         D          C          S 
+  I      E      N       I                    I          T 
+  D      C      O       N         R          D            
+  E      T      W                 E          E          F 
+  N             L       R         P          N          I 
+  T             E       E         A          T          X 
+                D       P         I                       
+  #             G       A         R          #            
+  1             E       I                    2            
+                        R                                 
 ```
